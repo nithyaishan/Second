@@ -1,2 +1,3 @@
 This is File B
 Changes to File B
+Final change to File B
